@@ -8,7 +8,7 @@ This repository consists of a list of my blog posts, papers and other publicatio
 * Nailing e-commerce: Black Friday's data in near real-time analytics with Snowflake Dynamic Tables & Snowflake Alerts (2023) -
 [GetInData blog](https://getindata.com/blog/nailing-e-commerce-black-friday-data-real-time-analytics-snowflake-dynamic-tables-snowflake-alerts/)
 | [Medium](https://medium.com/getindata-blog/nailing-e-commerce-black-fridays-data-in-near-real-time-analytics-with-snowflake-dynamic-tables-f7db85b2c6bc)    
-* Whitepaper: Data Democratization Through Data Management (2023) - *link coming soon* 
+* Whitepaper: Data Democratization Through Data Management (2023) - [GetInData knowledge base](https://ebook.getindata.com/data-democratization-data-management)
 * GetInData Modern Data Platform - features & tools (2022) - [GetInData blog](https://getindata.com/blog/getindata-modern-data-platform-features-tools/) 
 * Announcing the GetInData Modern Data Platform - a self-service solution for Analytics Engineers (2022) - [GetInData blog](https://getindata.com/blog/announcing-getindata-modern-data-platform-self-service-solution-analytics-engineers/) 
 
