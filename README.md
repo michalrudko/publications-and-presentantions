@@ -5,7 +5,7 @@ This repository consists of a list of my blog posts, papers and other publicatio
 # Publications
 
 ## Blog posts & whitepapers
-* Data lakehouse with Snowflake Iceberg tables - introduction (2024) - [GetInData blog](https://getindata.com/blog/data-lakehouse-snowflake-iceberg-tables-introduction/)
+* Data lakehouse with Snowflake Iceberg tables - introduction (2024) - [GetInData blog](https://getindata.com/blog/data-lakehouse-snowflake-iceberg-tables-introduction/) | [Medium](https://medium.com/@getindatatechteam/data-lakehouse-with-snowflake-iceberg-tables-introduction-d4fe3b8e7549)
 * Data Democratization: Power Your Organizations with Data Accessibility (2024) - [GetInData blog](https://getindata.com/blog/data-democratization-power-organizations-data-accessibility/) | [Medium](https://medium.com/getindata-blog/data-democratization-power-your-organizations-with-data-accessibility-fd8a3cc63773) 
 * Nailing e-commerce: Black Friday's data in near real-time analytics with Snowflake Dynamic Tables & Snowflake Alerts (2023) -
 [GetInData blog](https://getindata.com/blog/nailing-e-commerce-black-friday-data-real-time-analytics-snowflake-dynamic-tables-snowflake-alerts/)
