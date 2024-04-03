@@ -18,7 +18,6 @@ This repository consists of a list of my blog posts, papers and other publicatio
 * Data Management, Data Governance, Data Quality, Data Discovery and Observability. How could you and your organization get involved in this topic? (2023) - [Acast](https://shows.acast.com/624cc6e4a259030012cf5c87/episodes/65509b24fd344d0013548d65?) 
 
 # Presentations & workshops
-* [**Soon!**][Advanced analytics engineering with Snowflake and dbt](https://bigdatatechwarsaw.eu/advanced-analytics-engineering/) (Big Data Tech Warsaw, Warsaw, 2024)
 * [DataOps in practice - getting the most out of Snowflake and dbt](https://bigdatatechwarsaw.eu/webinar-2024/) (On-line webinar, 2024)
 * [Providing end-to-end data value chain with open-source dbt-based DP Framework](https://godatafest.com/broadcasts/providing-end-to-end-data-value-chain-open-source-dbt-based-dp-framework/) (GoDataFest, Amsterdam, 2023)
 * [Data Platform - a modern one. A new stack that promotes self-service with well-known best DataOps practices](https://bigdatatechwarsaw.eu/agenda-2023/) (Big Data Tech Warsaw, Warsaw, 2023)
